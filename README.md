@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Komal-Band26/Leet-Codes/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Komal-Band26/Leet-Codes/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Komal-Band26/Leet-Codes/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Komal-Band26/Leet-Codes/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Komal-Band26/Leet-Codes/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Komal-Band26/Leet-Codes/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/Komal-Band26/Leet-Codes/tree/master/0415-add-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Komal-Band26/Leet-Codes/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Komal-Band26/Leet-Codes/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
