@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Komal-Band26/Leet-Codes/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Komal-Band26/Leet-Codes/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Komal-Band26/Leet-Codes/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
